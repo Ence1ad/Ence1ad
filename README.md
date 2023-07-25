@@ -1,4 +1,3 @@
-<img align="center" width="1280" height="auto" alt="banner" src="https://i.ibb.co/5GX4wc2/1685348964887.jpg"><br>
 <h1 align="center">Hi 👋, I'm Roman Akhmetkhanov</h1>
 <h3 align="center">A passionate back-end developer from Russia.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
