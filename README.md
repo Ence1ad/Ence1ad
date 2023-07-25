@@ -1,13 +1,14 @@
+<img align="center" width="1280" height="auto" alt="banner" src="https://i.ibb.co/5GX4wc2/1685348964887.jpg"><br>
 <h1 align="center">Hi 👋, I'm Roman Akhmetkhanov</h1>
 <h3 align="center">A passionate back-end developer from Russia.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ence1ad&label=Profile%20views&color=0e75b6&style=flat" alt="ence1ad" /> </p>
 
 - 💬 Ask me about **python, django, postgresql**
 
 - 📫 How to reach me **rrakhmetkhanov@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rakhmetkhanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rakhmetkhanov/" height="30" width="40" /></a>
